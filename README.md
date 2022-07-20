@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @windytws
+- 👋 Hi, I’m @ Windy T
 - 👀 I’m interested in Data Analysis skill and development.
 - 🌱 I’m currently studying Bachelor's Degree in Computer Science. 
 - 💞️ I’m looking to collaborate on Data Scientise or Data Analysis. Hopefully can learn from all!
